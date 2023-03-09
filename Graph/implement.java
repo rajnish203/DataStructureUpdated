@@ -1,11 +1,9 @@
 package Graph;
 
+
 import java.util.Scanner;
 
 public class implement {
-    public static void dfsTraversal(int adj[][]){
-         
-    }
     public static int[][] CreateGraph(){
         Scanner s=new Scanner(System.in);
         int n =s.nextInt();
